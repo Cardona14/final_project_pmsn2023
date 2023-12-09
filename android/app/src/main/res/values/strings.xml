@@ -1,0 +1,6 @@
+<resources>
+    <string name="geo_api_key">AIzaSyCXvh-TsB2PpHV7Yz31NUzHc8QkoLeScsQ</string>
+    <string name="facebook_app_id">1336502613739040</string>
+    <string name="fb_login_protocol_scheme">fb1336502613739040</string>
+    <string name="facebook_client_token">1d0c11949ed95acceb18cb4c0a3e258d</string>
+</resources>
